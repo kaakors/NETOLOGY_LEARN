@@ -1,21 +1,21 @@
-##Задание №1 - Подготовка рабочей среды
+## Задание №1 - Подготовка рабочей среды
 
-#Terraform:
+# Terraform:
 
 ![alt text](screen/Terraform.png "Terraform")
 
-#bash:
+# bash:
 
 ![alt text](screen/bash.png "bash")
 
-#Markdown:
+# Markdown:
 
-![alt text](screen/md.png "Markdown")
+![alt text](screen/MD.png "Markdown")
 
-#Yaml:
+# Yaml:
 
 ![alt text](screen/YAML.png "YAML")
 
-#Jsonnet:
+# Jsonnet:
 
 ![alt text](screen/jsonnet.png "jsonnet")
