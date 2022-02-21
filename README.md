@@ -1,25 +1,25 @@
 ***опишите своими словами какие файлы будут игнорироваться в будущем благодаря добавленному .gitignore***
 
-[^-] \*\*/.terraform/\*
+## \*\*/.terraform/\*
 
 Игнорирование всех файлов в директории /.terraform/
 
-[^-] \*.tfstate
+## \*.tfstate
 
 Игнорирование файлов с расширением \*.tfstate во всем репозитории
 
-[^-] \*.tfstate.\*
+## \*.tfstate.\*
 
 Игнорирование файлов где встречается \*.tfstate.\*, например xxx.tfstate.kkkk
 
-[^-] crash.log
+## crash.log
 
 Игнорирование файла crash.log в любой директории репозитория
 
-[^-] \*.tfvars, \*tfvars.json, \*override.tf, \*override.tf.json
+## \*.tfvars, \*tfvars.json, \*override.tf, \*override.tf.json
 
 Аналогично с \*.tfstate
 
-[^-] override.tf, override.tf.json, .terraformrc, terraform.rc
+## override.tf, override.tf.json, .terraformrc, terraform.rc
 
 Аналогично с crash.log
