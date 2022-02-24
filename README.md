@@ -23,3 +23,4 @@
 [^-] override.tf, override.tf.json, .terraformrc, terraform.rc
 
 Аналогично с crash.log
+Some string
