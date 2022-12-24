@@ -51,6 +51,7 @@
 
 В решении задания - приведите листинг этого файла.
 
+[dash.txt](https://github.com/kaakors/devops-netology/files/10299037/dash.txt)
 
 ---
 
